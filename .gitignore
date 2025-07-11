@@ -1,3 +1,5 @@
 .vscode/*
 .streamlit/*
 .streamlit/secrets.toml
+.conda/*
+.DS_Store
